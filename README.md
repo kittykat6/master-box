@@ -1,1 +1,1 @@
-# master-box
+# Box Class
